@@ -1,6 +1,6 @@
 {
   "name": "sugar-coat",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "自定义egg框架",
   "main": "index.js",
   "repository": {
@@ -15,11 +15,11 @@
     "name": "naij"
   },
   "dependencies": {
-    "egg": "^0.5.0",
-    "egg-oss": "^1.0.0",
-    "egg-view-nunjucks": "^0.6.0"
+    "egg": "^2.22.2",
+    "egg-oss": "^2.0.0",
+    "egg-view-nunjucks": "^2.2.0"
   },
   "engines": {
-    "node": ">= 4.4.4"
+    "node": ">= 8.0.0"
   }
 }

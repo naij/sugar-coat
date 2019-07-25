@@ -1,6 +1,6 @@
 {
   "name": "sugar-coat",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "description": "自定义egg框架",
   "main": "index.js",
   "repository": {

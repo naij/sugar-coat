@@ -9,10 +9,10 @@ module.exports = {
     package: 'egg-view-nunjucks',
   },
   /**
-   * 支持阿里云oss，默认不开启
+   * 支持阿里云oss，默认开启
    */
   oss: {
-    enable: false,
+    enable: true,
     package: 'egg-oss',
   },
   /**
